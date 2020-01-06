@@ -18,11 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Quintessential Drip
+title: THE GROUNDS OF THE CITY
 author: Bryan Pan
 email: bryanpan342@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A journey of a student's love for coffee
+  A Student's Blog About Coffee
+bio: >-
+  My name is Bryan Pan, I am a second year Computer Science student at UCLA. 
+  My deep fascination for coffee has brought me here, where I write about my
+  journey with coffee. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: bryanthesnob

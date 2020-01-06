@@ -7,8 +7,8 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
+  <div class="home-internal"></div>
   {{ content }}
-
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
@@ -28,5 +28,6 @@ layout: default
       {%- endfor -%}
     </ul>
   {%- endif -%}
+  </div>
 
 </div>
