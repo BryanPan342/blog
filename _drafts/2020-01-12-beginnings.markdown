@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beginnings"
-date:   2020-01-12 8:00:00 -0800
+date:   2020-01-12 08:00:00 -0800
 categories: opinions
 ---
 
