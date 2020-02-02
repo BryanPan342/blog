@@ -26,8 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 bio: >-
   My name is Bryan Pan and my deep fascination for coffee has brought me here, where I write about my
   journey with coffee. 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "bryanpan342.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.groundsofthecity.com" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: bryanthesnob
 github_username:  bryanpan342
 

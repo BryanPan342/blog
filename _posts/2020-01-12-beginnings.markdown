@@ -2,7 +2,7 @@
 layout: post
 title:  "Beginnings"
 date:   2020-01-12 09:00:00 -0800
-image: /blog/assets/images/about-profile.jpg
+image: /assets/images/about-profile.jpg
 author: Bryan Pan
 categories: opinions
 ---
