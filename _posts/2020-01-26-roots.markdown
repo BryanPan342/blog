@@ -4,7 +4,7 @@ title:  "Roots"
 date:   2020-01-26 09:00:00 -0800
 image: /assets/images/bar-nine-logo.png
 author: Bryan Pan
-categories: opinions
+categories: location
 ---
 <br/>  
 Tucked away in a neighborhood in Culver City, **Bar Nine** roasts, brews, and serves *Third Wave* coffee. Blink once, you would have seen a warehouse. Blink twice, you would have completely missed it. Walls of brick and mortar, a large glass door, and a generic chain-link fence is the only indication that you are remotely in the right place. As the saying goes, "if you know, you know".  
