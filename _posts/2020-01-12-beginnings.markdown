@@ -2,11 +2,11 @@
 layout: post
 title:  "Beginnings"
 date:   2020-01-12 09:00:00 -0800
-image: /blog/assets/images/about-profile.jpg
+image: /assets/images/about-profile.jpg
+logo: /assets/images/about-profile.jpg
 author: Bryan Pan
 categories: opinions
 ---
-<br/>
 Hello, world! My name is **Bryan Pan** and I really love coffee (like, **really**). As a Computer Science major, I spend the majority of my days with my buttocks screwed into a seat and my eyeballs glued to a screen. I don't know about you, but, sometimes, I like to imagine a world where my life is completely different. Call me a dreamer but I find solace in fantasizing a life in servitude to something personal, something unconventional. 
 <br/>
 <br/>

@@ -10,19 +10,20 @@ layout: default
   <div class="home-internal"></div>
   {{ content }}
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
+        <a class="home-to-post" href="{{ post.url | relative_url }}"> </a>
+        <h1>
+          {{ post.title | escape }}
+          <span style="font-size: 14px; color: #828282; float: right">{{ post.date | date: date_format }}</span>
+        </h1>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
+        {%- endif -%}
+        {%- if post.image -%}
+          <img src="{{post.image}}" class="img" alt="home img"/>
         {%- endif -%}
       </li>
       {%- endfor -%}

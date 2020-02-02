@@ -2,7 +2,10 @@
 layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
+  {%- if page.image -%}
+    <img src="{{page.logo}}" class="img" alt="post image"/>
+  {%- endif -%}
+  <br></br>
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
@@ -16,9 +19,6 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {%- if page.image -%}
-      <img src="{{page.image}}" class="img" alt="post image"/>
-    {%- endif -%}
     <!--![image](/blog/assets/images/about-profile.jpg){:class="img-responsive"} -->
     {{ content }}
   </div>
