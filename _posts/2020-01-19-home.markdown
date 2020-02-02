@@ -2,11 +2,11 @@
 layout: post
 title:  "Home"
 date:   2020-01-19 09:00:00 -0800
-image: /assets/images/upside-down-logo-2.png
+logo: /assets/images/upside-down-logo-2.png
+image: /assets/images/upside-down-interior.jpg
 author: Bryan Pan
 categories: location
 ---
-<br/>
 In a city, like Los Angeles, I find it all too easy to become consumed by the cacophony of hustle and bustle. The grind, the dream-chasing, the veganism, it's truly exhausting. Stuck in traffic on the 405, I sometimes wonder how a city could possibly have survived so long without public transportation. With a plethora of hole-in-the-wall cafes to find, it's hard to choose where to begin. But after a bit of introspection, and maybe a coffee or two, I guess the best place to start is close to home.
 <br/>  
 Amidst the ruckus of LA, I believe everyone should have a place where they can call home. The world is just too big and too scary to go about it alone. Whether it be your apartment, a cafe, a group of friends, "home" is a place where you can truly be yourself. Just a couple of blocks from UCLA is a coffee shop called **Upside Down**. Home to the beginning of my coffee obsession, a creative space, and amazingly kind baristas, **Upside Down** has a special place in my heart.  

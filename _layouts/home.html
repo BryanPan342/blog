@@ -13,18 +13,17 @@ layout: default
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-        <!-- {%- if post.image -%}
-          <img src="{{post.image}}" class="img" alt="home img"/>
-        {%- endif -%} -->
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
+        <a class="home-to-post" href="{{ post.url | relative_url }}"> </a>
+        <h1>
+          {{ post.title | escape }}
+          <span class="post-home">{{ post.date | date: date_format }}</span>
+        </h1>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
+        {%- endif -%}
+        {%- if post.image -%}
+          <img src="{{post.image}}" class="img" alt="home img"/>
         {%- endif -%}
       </li>
       {%- endfor -%}

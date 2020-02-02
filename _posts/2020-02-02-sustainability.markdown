@@ -2,11 +2,11 @@
 layout: post
 title:  "Sustainability"
 date:   2020-02-02 09:00:00 -0800
-image: /assets/images/coffee-connection-logo.jpg
+logo: /assets/images/coffee-connection-logo.jpg
+image: /assets/images/coffee-connection-interior.jpg
 author: Bryan Pan
 categories: location
 ---
-<br/>  
 Let's talk about sustainability. According to the National Coffee Association (NCA), 2.25 billion cups of coffee are consumed every single day. On top of k-cups and the 140 liters of water it takes to make a single cup of coffee, coffee consumption has a nontrivial impact on the environment. With growing interests towards promoting sustainable practices, cafes like <a href="https://www.groundsofthecity.com/opinions/2020/01/26/roots.html" target="_blank">Bar Nine</a> and **Coffee Connection** are taking off in the coffee-making business of doing things right.
 <br/>  
 As a non-profit cafe, **Coffee Connection** was founded upon the notion of serving the greater community than a large corporation. They source their beans from <a href="https://groundsforchange.com/" target="_blank">Grounds for Change</a>, a Fair Trade and Carbon-Free roaster based in Seattle, and <a href="https://www.bicyclecoffeeco.com/" target="_blank">Bicycle Coffee Roasters</a>, a coffee roaster that only delivers by bike. Furthermore, **Coffee Connection** proactively partners with the community by supporting local businesses and schools.  
