@@ -30,7 +30,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.groundsofthecity.com" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: bryanthesnob
 github_username:  bryanpan342
-google-analytics: 1
+google_analytics: 1
 
 # Build settings
 theme: minima
