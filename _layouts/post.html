@@ -3,7 +3,11 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
   {%- if page.image -%}
-    <img src="{{page.logo}}" class="imglit" alt="post image"/>
+    {%- if page.title == "Beginnings" -%}
+    <img src="{{page.logo}}" class="img" alt="post image"/>
+    {%- else -%}
+      <img src="{{page.logo}}" class="imglit" alt="post image"/>
+    {%- endif -%}
   {%- endif -%}
   <br></br>
   <header class="post-header">
